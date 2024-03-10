@@ -15,5 +15,5 @@ Proje, modern yaşam tarzına uygun, kolay kullanımlı arayüzü ile kullanıc�
 
 * Proje Ekibi : Seyithan Topal
 
-1. [Proje Planı](https://github.com/Seyit10/postmates-project/blob/main/GereksinimAnalizi.md)
+1. [Proje Planı](https://github.com/Seyit10/postmates-project/blob/main/ProjePlani.md)
 2. [Gereksinim Analizi](https://github.com/Seyit10/postmates-project/blob/main/GereksinimAnalizi.md)
