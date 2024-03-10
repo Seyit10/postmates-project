@@ -15,3 +15,9 @@ Proje, modern yaşam tarzına uygun, kolay kullanımlı arayüzü ile kullanıc�
 <br>
 <h3> Proje Ekibi </h3> <p>Seyithan Topal</p>
 <br>
+1.Proje Planı
+<br>
+<br>
+<br>
+2. [Gereksinim Analizi](https://github.com/Seyit10/postmates-project/blob/main/gereksinimanalizi.md)
+
