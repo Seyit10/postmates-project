@@ -17,6 +17,6 @@ Proje, modern yaşam tarzına uygun, kolay kullanımlı arayüzü ile kullanıc�
 
 1. [Proje Planı](https://github.com/Seyit10/postmates-project/blob/main/ProjePlani.md)
 2. [Gereksinim Analizi](https://github.com/Seyit10/postmates-project/blob/main/GereksinimAnalizi.md)
-3. [Durum Diyagramı](#)
-4. [Durum Senaryoları](#)
+3. [Kullanıcı Senaryosu Diyagramı](#)
+4. [Kullanıcı Senaryoları](#)
 5. [Veritabanı Diyagramı](#)
