@@ -5,7 +5,7 @@ Kullanıcıların taleplerine hızlı ve etkili bir şekilde yanıt vermesi, mü
 Proje, modern yaşam tarzına uygun, kolay kullanımlı arayüzü ile kullanıcıların kolayca kullanabilmesi adına düzenlenmiştir.
 
 
-* Proje Kategorisi : Online Yemek Siparişi ve Teslimat
+* Proje Kategorisi : Online Yemek Siparişi
 
 * Referans Uygulama : https://postmates.com
 
