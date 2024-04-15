@@ -1,3 +1,3 @@
 # Durum Senaryoları
-[Seyithan Topal](/assets/useCaseSablon.pdf)
+[Seyithan Topal](./assets/useCaseSablon.pdf)
 
