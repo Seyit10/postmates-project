@@ -52,7 +52,7 @@ Kullanıcılar, istedikleri ürünleri seçip adet belirleyerek, teslimat veya a
 
 <p> 10.Ödeme Yap : Bu özellik, kullanıcıların siparişlerini tamamlamak için ödeme yapmalarını sağlar.
 Kullanıcılar genellikle kredi kartı, banka kartı veya diğer ödeme yöntemlerini kullanarak sipariş bedelini öderler.
-Ödeme işlemi genellikle güvenli bir şekilde yapılır ve kullanıcılara ödeme onayı sağlanır. </p>
+Ödeme işlemi güvenli bir şekilde yapılır ve kullanıcılara ödeme onayı sağlanır. </p>
 
 
 
