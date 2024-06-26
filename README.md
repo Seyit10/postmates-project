@@ -9,7 +9,7 @@ Proje, modern yaşam tarzına uygun, kolay kullanımlı arayüzü ile kullanıc�
 
 * Referans Uygulama : https://postmates.com
 
-* Uygulama Adresi : Henüz mevcut değil.
+* Uygulama Adresi : https://postmates-app-frontend.onrender.com/
 
 * Grup Adı : WeDieHard
 
