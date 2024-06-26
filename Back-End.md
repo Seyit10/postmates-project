@@ -7,5 +7,6 @@
 6. Ödeme Yap : Rest API kullanıldı.
 7. Mekan Ara : Rest API kullanıldı.
 8. Sipariş Ver : Rest API kullanıldı.
+9. Restoran Listele : Rest API kullanıldı.
 
    
