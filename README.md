@@ -20,3 +20,7 @@ Proje, modern yaşam tarzına uygun, kolay kullanımlı arayüzü ile kullanıc�
 3. [Durum Diyagramı](https://github.com/Seyit10/postmates-project/blob/main/DurumDiyagram%C4%B1.md)
 4. [Durum Senaryoları](https://github.com/Seyit10/postmates-project/blob/main/DurumSenaryolar%C4%B1.md)
 5. [Veritabanı Diyagramı](https://github.com/Seyit10/postmates-project/blob/main/Veritaban%C4%B1Diyagram%C4%B1.md)
+6. [Front-End](https://github.com/Seyit10/postmates-project/blob/main/Front-End.md)
+7. [Back-End](https://github.com/Seyit10/postmates-project/blob/main/Back-End.md)
+8. [Test](https://github.com/Seyit10/postmates-project/blob/main/test.md)
+   
