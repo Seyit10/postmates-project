@@ -8,3 +8,5 @@
 7. Mekan Ara : Postman Kullanıldı.
 8. Sipariş Ver : Postman Kullanıldı.
 9. Restoran Listele : Postman Kullanıldı.
+
+[Test Videosu](https://www.youtube.com/watch?v=cOS8JC0bOzo)
